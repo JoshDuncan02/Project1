@@ -1,0 +1,23 @@
+
+             div {
+               margin-bottom: 15px;
+               padding: 4px 12px;
+             }
+             
+             .Communication {
+               background-color: #ffdddd3b;
+               border-left: 6px solid #f44336;
+             }
+             
+             .Success {
+               background-color: #ddffdd25;
+               border-left: 6px solid #04AA6D;
+             }
+             
+             .Info {
+               background-color: #e7f3fe42;
+               border-left: 6px solid #2196F3;
+             }
+             
+             
+            
